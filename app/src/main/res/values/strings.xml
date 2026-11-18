@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学习守护</string>
+    <string name="revival_account_type" translatable="false">com.icybard.learningguard</string>
+    <string name="accessibility_description">识别受控视频应用并在达到观看时长后显示学习答题层。</string>
+</resources>
